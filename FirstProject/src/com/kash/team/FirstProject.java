@@ -1,14 +1,9 @@
 package com.kash.team;
 
 public class FirstProject {
-	
-	public static void main(String[] args){
-		
+	public static void main(String[] args){	
 		System.out.println("Hello World");
 		System.out.println("HI");
 		System.out.println("Prakash");
-		
 	}
-	
-
 }
